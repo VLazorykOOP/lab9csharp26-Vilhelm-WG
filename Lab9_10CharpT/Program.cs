@@ -12,7 +12,7 @@ internal class Program
         while (true)
         {
             Console.WriteLine("\n=============================");
-            Console.WriteLine("        Lab 8 - Меню         ");
+            Console.WriteLine("        Lab 9 - Меню         ");
             Console.WriteLine("=============================");
             Console.WriteLine("1 - Завдання 1: Зворотні рядки (Stack)");
             Console.WriteLine("2 - Завдання 2: Голосні та приголосні (Queue)");

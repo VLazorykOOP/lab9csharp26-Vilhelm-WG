@@ -25,7 +25,7 @@ public class Compare_row
     public static void RunTask1()
     {
         Console.WriteLine("=== Завдання 1: Перевірка на зворотні рядки ===");
-        string string1 = "appl";
+        string string1 = "apple";
         string string2 = "elppa";
 
         if (IsReverse(string1, string2))
