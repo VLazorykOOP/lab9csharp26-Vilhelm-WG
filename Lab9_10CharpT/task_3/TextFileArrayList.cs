@@ -11,7 +11,7 @@ public class TextFileArrayList
             File.WriteAllText(filePath, "Акула собака екран телефон ідея кіт університет машина");
         }
 
-        Console.WriteLine("=== Завдання 4: Голосні та Приголосні (ArrayList) ===\n");
+        Console.WriteLine("=== Завдання 3.2: Голосні та Приголосні (ArrayList) ===\n");
 
         string text = File.ReadAllText(filePath);
         char[] separators = new char[] { ' ', '\n', '\r', '\t', ',', '.', '!', '?' };

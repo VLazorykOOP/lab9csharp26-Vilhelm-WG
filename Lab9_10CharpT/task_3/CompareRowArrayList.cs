@@ -11,7 +11,7 @@ public class CompareRowArrayList
             File.WriteAllText(filePath, "Перший рядок\nДругий рядок\nТретій рядок");
         }
 
-        Console.WriteLine("=== Завдання 3: Зворотні рядки (ArrayList) ===\n");
+        Console.WriteLine("=== Завдання 3.1: Зворотні рядки (ArrayList) ===\n");
         
         string[] lines = File.ReadAllLines(filePath);
 
